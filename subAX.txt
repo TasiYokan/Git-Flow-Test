@@ -1,2 +1,7 @@
 Add xxxx
+<<<<<<< HEAD
 A also modify it
+=======
+B Fix this
+>>>>>>> master
+super resolve
